@@ -1,1 +1,8 @@
 En esta clase veremos cómo utilizar algunas de las herramientas de Matlab para el manejo de grandes archivos.
+Analizaremos los objetos de tipo datastore y puntualmente los el tipo TabularTextDatastore, ideales para el manejo de bases de datos de tablas de textos, como son los archivos CSV.
+
+%------------------------------------------------------------------------
+Por: Julian D. Echeverry - 2018 - Introducción a la Ciencia de los Datos
+Maestría en Ingeniería Eléctrica - Universidad Tecnológica de Pereira
+Grupo de Investigación en Análisis de Datos y Sociología Computacional
+contacto: jde@utp.edu.co
